@@ -1,0 +1,1 @@
+The provided file `types.ts` defines various TypeScript types and enums. It does not contain any function or method definitions. Therefore, there are no methods or functions to document.

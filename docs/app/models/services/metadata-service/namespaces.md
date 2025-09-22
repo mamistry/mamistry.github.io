@@ -1,0 +1,1 @@
+The provided file `NAMESPACES` does not contain any methods or functions. It defines a constant object that serves as a collection of namespace strings. Therefore, there are no functions or methods to document according to the specified criteria.
