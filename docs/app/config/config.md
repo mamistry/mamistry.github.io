@@ -1,0 +1,1 @@
+There are no functions or methods explicitly defined in the provided code snippet. The file exports a constant object named `configs` which contains various configuration values derived from environment variables or default strings.

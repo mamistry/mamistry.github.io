@@ -1,0 +1,1 @@
+The provided file contains only a TypeScript type definition (`TExternalArticle`) and no functions or methods. Therefore, no documentation can be generated based on the given content.

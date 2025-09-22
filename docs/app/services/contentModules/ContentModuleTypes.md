@@ -1,0 +1,1 @@
+The provided file defines several TypeScript type aliases and an enum, but it does not contain any executable methods or functions. Therefore, there is no content to document according to the specified criteria for methods and functions.

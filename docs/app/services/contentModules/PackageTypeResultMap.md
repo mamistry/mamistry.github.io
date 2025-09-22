@@ -1,0 +1,1 @@
+There are no methods or functions explicitly defined within the provided file. The file exclusively defines a class `PackageTypeResultMap` which contains only public properties (arrays of `TContentModule`).

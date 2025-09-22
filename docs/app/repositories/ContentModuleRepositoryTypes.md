@@ -1,0 +1,1 @@
+The provided file contains only type and interface definitions, and no function or method definitions. Therefore, there are no methods to document according to the specified requirements.
