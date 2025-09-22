@@ -96,18 +96,17 @@ Below you'll find links to all documentation files organized by folder.
 
 ### app/util
 
-- [app/util/AsyncHelper.md](util/AsyncHelper.md)
-- [app/util/BMMRestClient.md](util/BMMRestClient.md)
-- [app/util/CacheHelper.md](util/CacheHelper.md)
-- [app/util/countryCodeValidator.md](util/countryCodeValidator.md)
-- [app/util/EnumUtils.md](util/EnumUtils.md)
-- [app/util/generateStatesFilter.md](util/generateStatesFilter.md)
-- [app/util/scheduler.md](util/scheduler.md)
-- [app/util/urlWrapper.md](util/urlWrapper.md)
+- [AsyncHelper.md](util/AsyncHelper.md)
+- [BMMRestClient.md](util/BMMRestClient.md)
+- [CacheHelper.md](util/CacheHelper.md)
+- [countryCodeValidator.md](util/countryCodeValidator.md)
+- [EnumUtils.md](util/EnumUtils.md)
+- [generateStatesFilter.md](util/generateStatesFilter.md)
+- [scheduler.md](util/scheduler.md)
+- [urlWrapper.md](util/urlWrapper.md)
 
 #### app/util/decorators
 
-- [app/util/decorators/asyncLogger.md](util/decorators/asyncLogger.md)
-- [app/util/decorators/asyncLogger.spec.md](util/decorators/asyncLogger.spec.md)
+- [decorators/asyncLogger.md](util/decorators/asyncLogger.md)
 
 ---
